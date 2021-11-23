@@ -1,8 +1,8 @@
-[![Header](https://github.com/DzmitryHaletski/DzmitryHaletski/blob/main/assets/Header.png)](http://www.linkedin.com/in/dima-haletski-1b09a9182/)
+[![Header](https://github.com/DzmitryHaletski/DzmitryHaletski/blob/main/assets/Header.png)](https://www.linkedin.com/in/digelik/)
 
 ### My links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dima-haletski-1b09a9182/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/digelik/)
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter)](https://twitter.com/DiGelik)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/di_gelik)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/di.gelik/)
